@@ -25,6 +25,8 @@ The study would map published evidence and identify gaps. International studies 
 | Resource | What it contains |
 | --- | --- |
 | [Draft protocol](research/protocol.md) | Proposed scope, search plan, screening rules, extraction fields, and limitations |
+| [Evidence brief](research/evidence-brief.md) | Verified starting literature, a sharper research question, and a planned 20-paper workflow pilot |
+| [Critical source check](research/notes/bicarformer-source-check.md) | An assistant-prepared check of a preprint's task, results, and reporting ambiguity; student review pending |
 | [Initial source register](research/source-register.md) | Four linked starting resources, with their verification level and intended use |
 | [AI-assisted literature workflow](workflows/literature-triage.md) | A reusable prompt, human review steps, and a worked abstract-only example |
 | [Reading-note template](templates/reading-note.md) | A structure for turning reading into traceable notes |

@@ -48,6 +48,8 @@ Record whether split design separates vehicles, trips, or time where relevant. T
 
 ## AI-assisted workflow and verification
 
+The [evidence brief](evidence-brief.md) defines a planned 20-paper extraction-workflow pilot, following an initial five-source feasibility check. The pilot will record source-checked corrections, unsupported claims, and review time. It is separate from the final review corpus and has not yet been run.
+
 Use [the literature-triage workflow](../workflows/literature-triage.md) to draft candidate notes. Human checking of citations, classifications, and source locations is required before accepting a record. If the work has one reviewer, report this; do not claim independent duplicate screening. Record tool versions and dates only when actually used.
 
 ## Synthesis and outputs
